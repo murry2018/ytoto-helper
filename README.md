@@ -28,13 +28,17 @@
 - 파일 이름은 아무거나 가능하지만 과목명을 포함할 것을 권장
 
 1. [수강편람](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_new.jsp#top)에서 원하는 과목의 '마일리지 수강신청 결과'를 조회
-  ![helper-v1-0](img/helper-v1-0.png)
+
+   ![helper-v1-0](img/helper-v1-0.png)
 2. 마일리지 내역 드래그 후 복사
-  ![helper-v1-1](img/helper-v1-1.png)
+
+   ![helper-v1-1](img/helper-v1-1.png)
 3. 메모장에 붙여넣은 후, filer.py와 mileage.py를 내려받은 폴더에
    1. '모든 파일' 선택
    2. 파일 이름이 .dat으로 끝나도록 설정 후
    3. 저장
+   
    ![helper-v1-2](img/helper-v1-2.png)
 4. 실행 결과
+
    ![helper-v1-3](img/helper-v1-3.png)
